@@ -45,7 +45,7 @@
   <!-- EN: Fiction primer -->
   <FictionPrimer>大纲介绍</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>制作组 Ludeon 博客</LudeonBlog>
+  <LudeonBlog>制作组Ludeon的博客</LudeonBlog>
   <!-- EN: Forums -->
   <Forums>官方论坛</Forums>
   <!-- EN: Official wiki -->
@@ -319,7 +319,7 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>所有文本框都必须填写内容。</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>确定上传到 Steam 创意工坊吗？\n\n你必须同意 Steam 创意工坊的服务条款。在以下网页查看完整条款:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>确定上传到Steam创意工坊吗？\n\n你必须同意 Steam 创意工坊的服务条款。在以下网页查看完整条款:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>你所上传的内容必须是你原创的。\n\n这是你原创的吗？</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
@@ -329,7 +329,7 @@
   <!-- EN: Too many (max {0}):  -->
   <TooMany>过多（最多 {0}）: </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>作为作者，你可以将其更新到 Steam 创意工坊。</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>作为作者，你可以将其更新到Steam创意工坊。</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>这个剧本已经被修改。\n\n你想要在使用前保存它吗？</ScenarioChangedSavePrompt>
   
@@ -357,7 +357,7 @@
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>自定义游戏模式设置</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>自定义游戏难度设置</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
   <DifficultyReset>导入基础模板...</DifficultyReset>
   
@@ -384,9 +384,9 @@
   <!-- EN: Allow wild predators to hunt humans. -->
   <Difficulty_PredatorsHuntHumanlikes_Info>允许野生的捕食动物以人类为目标。</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>极端气候</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>极端天气</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>允许极端气候事件的出现，例如有毒尘埃、火山冬天和暴风雨。</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>允许极端天气事件的出现，例如有毒尘埃、火山冬天和闪电风暴。</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
   <DifficultyEconomySection>经济</DifficultyEconomySection>
@@ -491,7 +491,7 @@
   <!-- EN: Player can build turrets -->
   <Difficulty_AllowTurrets_Label>玩家可以建造炮塔</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>玩家可以建造类似简易无人机枪塔、自动加农炮塔之类的静态炮塔。\n\n你依然可以在禁用此选项时使用缴获的炮塔。</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>玩家可以建造类似小型自动机枪塔、自动加农炮塔之类的固定炮塔。\n\n你依然可以在禁用此选项时使用缴获的炮塔。</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
   <Difficulty_AllowMortars_Label>玩家可以建造迫击炮</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
@@ -537,9 +537,9 @@
   <!-- EN: Please select a site. -->
   <MustSelectStartingSite>请选择一个着陆点。</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>你无法着陆在{0}生态区上。</CannotLandBiome>
+  <CannotLandBiome>你无法着陆在{0}生态群落上。</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>该生态区在游戏中尚未实现。</BiomeNotImplemented>
+  <BiomeNotImplemented>该生态群落在游戏中尚未实现。</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>你不能在无法逾越的山脉上着陆。</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
@@ -547,11 +547,11 @@
   <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>你在此处已经拥有了一座基地。</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>这个地图格已经被占领了。</TileOccupied>
+  <TileOccupied>这个区格已经被占领了。</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>定居点互相之间不能直接相邻。</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>生态区</Biome>
+  <Biome>生态群落</Biome>
   <!-- EN: Terrain -->
   <Terrain>地形</Terrain>
   <!-- EN: Road -->
@@ -680,7 +680,7 @@
   <StartingPawnsSelected>已选择</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>丢弃</StartingPawnsLeftBehind>
-  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>这个殖民者被认为是有罪的。你可以自由地放逐、处决或逮捕他们，其他人也不会受到困扰。\n\n有罪期限</GuiltyDesc>
   
   <!-- Misc -->

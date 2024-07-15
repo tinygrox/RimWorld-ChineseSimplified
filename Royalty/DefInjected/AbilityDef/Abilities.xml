@@ -79,7 +79,7 @@
   <!-- EN: neuroquake -->
   <Neuroquake.label>心灵震颤</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
-  <Neuroquake.description>在心灵力场中找到一个不连续的地方，展开它，施放出大量的灵能。在安全的内圈之外的每一个生物都会陷入狂暴状态。施放这个能力需要12秒的冥想，并导致施法者心灵休克5天。令人不安的心灵震颤回声将给周围数公里内的人带来痛苦，并且对所有派系产生外交影响。</Neuroquake.description>
+  <Neuroquake.description>在心灵场中找到一个不连续的地方，展开它，施放出大量的心灵能量。在安全的内圈之外的每一个生物都会陷入狂暴状态。施放这个能力需要12秒的冥想，并导致施法者心灵休克5天。令人不安的心灵震颤回声将给周围数公里内的人带来痛苦，并且对所有派系产生外交影响。</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
   <Neuroquake.confirmationDialogText>如果你使用心灵震颤，这个地区的所有人都会感受到“心灵震颤”的回响，你将失去与所有非敌对派系的友好关系。\n\n心灵震颤需要12秒的施放时间，并且不能被打断。完成后，施法者也会进入心灵休克状态5天。\n\n地图上除了施法者周围一个小范围内的人外，其他人都会受到影响。\n\n你真的要施放心灵震颤吗？</Neuroquake.confirmationDialogText>
   
@@ -104,9 +104,9 @@
   <SolarPinhole.description>产生一个与附近恒星相连的微小空间狭缝。恒星物质借此穿越时空，照亮并加热周围的区域，直至狭缝消散。这个亮度可以让你照常工作，但是还不足以支持植物生长。</SolarPinhole.description>
   
   <!-- EN: throne speech -->
-  <Speech.label>威严演说</Speech.label>
+  <Speech.label>威严演讲</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>基于威严发起一场演讲，会召集所有的殖民者到谒见厅来听取演讲。如果一切顺利，听众会获得鼓舞，并且从听众获得尊重。如果进展不顺利，演讲会造成社交伤害。结果取决于组织者的社交能力。</Speech.description>
+  <Speech.description>在宝座上发起演讲，将召集所有的殖民者到谒见厅来听取演讲。一场顺利的演讲将鼓舞听众，并且使演讲者被尊重。如果进展不顺利，演讲会造成社交伤害。结果取决于演讲者的社交能力。</Speech.description>
   
   <!-- EN: stun -->
   <Stun.label>麻痹</Stun.label>
@@ -145,7 +145,7 @@
   
   <!-- EN: word of serenity -->
   <WordOfSerenity.label>宁神之语</WordOfSerenity.label>
-  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
   <WordOfSerenity.description>通过平静的话语和心理暗示来结束人或动物的精神崩溃状态。目标会进入短暂的心灵沉睡。精神力的消耗取决于目标的精神崩溃强度。</WordOfSerenity.description>
   
   <!-- EN: word of trust -->

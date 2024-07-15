@@ -5,7 +5,7 @@
     <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
   -->
   <Intro_Wimp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name] 的一名 [asker_royalTitleInCurrentFaction]， [asker_nameFull] 正在附近联系我们。 [asker_possessive]警卫在一场袭击中被杀。 [asker_pronoun]逃跑了， 但现在正被(*Threat)猎杀人类的[animalKindDef_label](/Threat)追杀。\n\n[asker_nameDef]希望你能在[map_definite]保护[asker_objective]几个小时， 直到[asker_possessive]穿梭机前来接走[asker_objective]。\n\n[asker_pronoun]将向接受此任务的人授予[royalFavorReward]x[asker_faction_royalFavorLabel]。 这份回报带来的[asker_faction_royalFavorLabel]足够使普通平民获取荣誉头衔， 并且还有相应的赏赐——包括提升心灵力量。</li>
+    <li>questDescription->[asker_faction_name] 的一名 [asker_royalTitleInCurrentFaction]， [asker_nameFull] 正在附近联系我们。 [asker_possessive]警卫在一场袭击中被杀。 [asker_pronoun]逃跑了， 但现在正被(*Threat)猎杀人类的[animalKindDef_label](/Threat)追杀。\n\n[asker_nameDef]希望你能在[map_definite]保护[asker_objective]几个小时，直到[asker_possessive]穿梭机前来接走[asker_objective]。\n\n[asker_pronoun]将向接受此任务的人授予[royalFavorReward]x[asker_faction_royalFavorLabel]。 这份回报带来的[asker_faction_royalFavorLabel]足够使普通平民获取荣誉头衔， 并且还有相应的赏赐——包括提升心灵力量。</li>
   </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
@@ -36,7 +36,7 @@
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
   <Intro_Wimp.LetterTextShuttleArrived.slateRef>前来迎接[asker_nameDef]的穿梭机已抵达。</Intro_Wimp.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelGuestDied.slateRef>访客已死亡：{SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
+  <Intro_Wimp.LetterLabelGuestDied.slateRef>宾客已死亡：{SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextGuestDied.slateRef>需要你小心保护的{SUBJECT_definite}已经死亡。[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
@@ -52,11 +52,11 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextCaptured.slateRef>需要你小心保护的{SUBJECT_definite}已被俘虏。[failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelGuestLost.slateRef>访客失踪：{SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
+  <Intro_Wimp.LetterLabelGuestLost.slateRef>宾客失踪：{SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextGuestLost.slateRef>需要你小心保护的{SUBJECT_definite}在你的殖民地回归自然。[failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>访客失踪：{SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>宾客失踪：{SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
   <Intro_Wimp.LetterTextLodgerRanWild.slateRef>需要你小心保护的{SUBJECT_definite}在你的殖民地回归自然。[failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Shuttle destroyed -->
